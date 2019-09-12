@@ -14,7 +14,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/.editorconfig",
+		"oAP": "/build/.editorconfig",
 		"oF": 0
 		},
 	"/.gitignore": {
@@ -22,7 +22,13 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/.gitignore",
+		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
 		"oF": 0
 		},
 	"/components/monster.js": {
@@ -31,7 +37,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/components/monster-min.js",
+		"oAP": "/build/components/monster-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -42,7 +48,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/components/PhotoSwipe-min.js",
+		"oAP": "/build/components/PhotoSwipe-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -52,7 +58,7 @@
 		"iS": 166090,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/01-A.jpg",
+		"oAP": "/build/images/monsters/01-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -63,10 +69,10 @@
 		"iS": 172417,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/01-B.jpg",
+		"oAP": "/build/images/monsters/01-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/02-A.jpeg": {
@@ -74,10 +80,10 @@
 		"iS": 176399,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/02-A.jpg",
+		"oAP": "/build/images/monsters/02-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/02-B.jpeg": {
@@ -85,10 +91,10 @@
 		"iS": 167757,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/02-B.jpg",
+		"oAP": "/build/images/monsters/02-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/03-A.jpeg": {
@@ -96,10 +102,10 @@
 		"iS": 167861,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/03-A.jpg",
+		"oAP": "/build/images/monsters/03-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/03-B.jpeg": {
@@ -107,10 +113,10 @@
 		"iS": 166000,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/03-B.jpg",
+		"oAP": "/build/images/monsters/03-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/04-A.jpeg": {
@@ -118,10 +124,10 @@
 		"iS": 164296,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/04-A.jpg",
+		"oAP": "/build/images/monsters/04-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/04-B.jpeg": {
@@ -129,10 +135,10 @@
 		"iS": 172574,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/04-B.jpg",
+		"oAP": "/build/images/monsters/04-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/05-A.jpeg": {
@@ -140,10 +146,10 @@
 		"iS": 165999,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/05-A.jpg",
+		"oAP": "/build/images/monsters/05-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/05-B.jpeg": {
@@ -151,10 +157,10 @@
 		"iS": 170643,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/05-B.jpg",
+		"oAP": "/build/images/monsters/05-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/06-A.jpeg": {
@@ -162,10 +168,10 @@
 		"iS": 172049,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/06-A.jpg",
+		"oAP": "/build/images/monsters/06-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/06-B.jpeg": {
@@ -173,10 +179,10 @@
 		"iS": 164407,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/06-B.jpg",
+		"oAP": "/build/images/monsters/06-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/07-A.jpeg": {
@@ -184,10 +190,10 @@
 		"iS": 168307,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/07-A.jpg",
+		"oAP": "/build/images/monsters/07-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/07-B.jpeg": {
@@ -195,10 +201,10 @@
 		"iS": 164043,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/07-B.jpg",
+		"oAP": "/build/images/monsters/07-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/08-A.jpeg": {
@@ -206,10 +212,10 @@
 		"iS": 175006,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/08-A.jpg",
+		"oAP": "/build/images/monsters/08-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/08-B.jpeg": {
@@ -217,10 +223,10 @@
 		"iS": 175752,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/08-B.jpg",
+		"oAP": "/build/images/monsters/08-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/09-A.jpeg": {
@@ -228,10 +234,10 @@
 		"iS": 176205,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/09-A.jpg",
+		"oAP": "/build/images/monsters/09-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/09-B.jpeg": {
@@ -239,10 +245,10 @@
 		"iS": 166249,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/09-B.jpg",
+		"oAP": "/build/images/monsters/09-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/10-A.jpeg": {
@@ -250,10 +256,10 @@
 		"iS": 167760,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/10-A.jpg",
+		"oAP": "/build/images/monsters/10-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/10-B.jpeg": {
@@ -261,10 +267,10 @@
 		"iS": 172310,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/10-B.jpg",
+		"oAP": "/build/images/monsters/10-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/11-A.jpeg": {
@@ -272,10 +278,10 @@
 		"iS": 172866,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/11-A.jpg",
+		"oAP": "/build/images/monsters/11-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/11-B.jpeg": {
@@ -283,10 +289,10 @@
 		"iS": 171417,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/11-B.jpg",
+		"oAP": "/build/images/monsters/11-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/12-A.jpeg": {
@@ -294,10 +300,10 @@
 		"iS": 176695,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/12-A.jpg",
+		"oAP": "/build/images/monsters/12-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/12-B.jpeg": {
@@ -305,10 +311,10 @@
 		"iS": 163476,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/12-B.jpg",
+		"oAP": "/build/images/monsters/12-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/13-A.jpeg": {
@@ -316,10 +322,10 @@
 		"iS": 169021,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/13-A.jpg",
+		"oAP": "/build/images/monsters/13-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/13-B.jpeg": {
@@ -327,10 +333,10 @@
 		"iS": 178422,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/13-B.jpg",
+		"oAP": "/build/images/monsters/13-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/14-A.jpeg": {
@@ -338,10 +344,10 @@
 		"iS": 181008,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/14-A.jpg",
+		"oAP": "/build/images/monsters/14-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/14-B.jpeg": {
@@ -349,10 +355,10 @@
 		"iS": 169254,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/14-B.jpg",
+		"oAP": "/build/images/monsters/14-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/15-A.jpeg": {
@@ -360,10 +366,10 @@
 		"iS": 175257,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/15-A.jpg",
+		"oAP": "/build/images/monsters/15-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/15-B.jpeg": {
@@ -371,10 +377,10 @@
 		"iS": 176288,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/15-B.jpg",
+		"oAP": "/build/images/monsters/15-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/16-A.jpeg": {
@@ -382,10 +388,10 @@
 		"iS": 168625,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/16-A.jpg",
+		"oAP": "/build/images/monsters/16-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/16-B.jpeg": {
@@ -393,10 +399,10 @@
 		"iS": 169903,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/16-B.jpg",
+		"oAP": "/build/images/monsters/16-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/17-A.jpeg": {
@@ -404,10 +410,10 @@
 		"iS": 172741,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/17-A.jpg",
+		"oAP": "/build/images/monsters/17-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/17-B.jpeg": {
@@ -415,10 +421,10 @@
 		"iS": 174347,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/17-B.jpg",
+		"oAP": "/build/images/monsters/17-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/18-A.jpeg": {
@@ -426,10 +432,10 @@
 		"iS": 170937,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/18-A.jpg",
+		"oAP": "/build/images/monsters/18-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/18-B.jpeg": {
@@ -437,10 +443,10 @@
 		"iS": 174144,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/18-B.jpg",
+		"oAP": "/build/images/monsters/18-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/19-A.jpeg": {
@@ -448,10 +454,10 @@
 		"iS": 181110,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/19-A.jpg",
+		"oAP": "/build/images/monsters/19-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/19-B.jpeg": {
@@ -459,10 +465,10 @@
 		"iS": 165138,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/19-B.jpg",
+		"oAP": "/build/images/monsters/19-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/20-A.jpeg": {
@@ -470,10 +476,10 @@
 		"iS": 164549,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/20-A.jpg",
+		"oAP": "/build/images/monsters/20-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/20-B.jpeg": {
@@ -481,10 +487,10 @@
 		"iS": 170386,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/20-B.jpg",
+		"oAP": "/build/images/monsters/20-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/21-A.jpeg": {
@@ -492,10 +498,10 @@
 		"iS": 175313,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/21-A.jpg",
+		"oAP": "/build/images/monsters/21-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/21-B.jpeg": {
@@ -503,10 +509,10 @@
 		"iS": 167711,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/21-B.jpg",
+		"oAP": "/build/images/monsters/21-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/22-A.jpeg": {
@@ -514,10 +520,10 @@
 		"iS": 168343,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/22-A.jpg",
+		"oAP": "/build/images/monsters/22-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/22-B.jpeg": {
@@ -525,10 +531,10 @@
 		"iS": 176940,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/monsters/22-B.jpg",
+		"oAP": "/build/images/monsters/22-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/index.html": {
@@ -536,7 +542,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.html",
+		"oAP": "/build/index.html",
 		"oF": 0
 		},
 	"/main-min.js": {
@@ -544,8 +550,8 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "/main-min-min.js",
+		"oA": 1,
+		"oAP": "/build/main-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -556,7 +562,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/main-min.js",
+		"oAP": "/build/main-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
@@ -564,7 +570,7 @@
 	"/monsters.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/monsters-min.json",
+		"oAP": "/build/monsters-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -578,7 +584,7 @@
 	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/package-min.json",
+		"oAP": "/build/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -588,8 +594,8 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "/styles-min.css",
+		"oA": 1,
+		"oAP": "/build/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -601,7 +607,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/styles.css",
+		"oAP": "/build/styles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -611,7 +617,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/yarn.lock",
+		"oAP": "/build/yarn.lock",
 		"oF": 0
 		}
 	},
@@ -624,7 +630,8 @@
 	"displayValue": "mhw-ib-dict",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-slime",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 589978164.20429802
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -918,7 +925,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -2989,7 +2996,7 @@
 		},
 	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$,exports,require",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "/build"
 	},
 "settingsFileVersion": "3"
 }
