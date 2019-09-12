@@ -1,0 +1,14 @@
+{
+  "name": "mhw-ib-dict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chih-Hsuan Fan <pc035860@gmail.com> (http://pymaster.logdown.com)",
+  "license": "MIT",
+  "dependencies": {
+    "fuzzy": "^0.1.3"
+  }
+}
