@@ -36,6 +36,17 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/components/PhotoSwipe.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/components/PhotoSwipe-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/images/monsters/01-A.jpeg": {
 		"ft": 16384,
 		"iS": 166090,
@@ -572,16 +583,28 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/test.js": {
-		"bF": 0,
-		"ft": 64,
+	"/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
 		"ma": 0,
-		"mi": 1,
 		"oA": 0,
-		"oAP": "/test-min.js",
+		"oAP": "/styles-min.css",
 		"oF": 0,
-		"sC": 3,
-		"tS": 0
+		"oS": 3
+		},
+	"/styles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/yarn.lock": {
 		"cB": 0,
@@ -1101,8 +1124,8 @@
 			"optionString": "{'exceptMethods': []}"
 			},
 		"comma-dangle": {
-			"active": 1,
-			"optionString": "'never'"
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"comma-spacing": {
 			"active": 0,

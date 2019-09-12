@@ -1,15 +1,16 @@
 /* global Vue */
 
-import Monster from './components/monster';
+import Monster from "./components/Monster";
+import PhotoSwipe from "./components/PhotoSwipe";
+import monsters from "./monsters.json";
 
-import monsters from './monsters.json'
-
-Vue.component('monster', Monster);
+Vue.component("monster", Monster);
+Vue.component("PhotoSwipe", PhotoSwipe);
 
 new Vue({
-  el: '#app',
+  el: "#app",
   data: {
-    query: '',
+    query: "",
     monsters
   },
   computed: {
