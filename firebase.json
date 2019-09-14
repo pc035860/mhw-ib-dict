@@ -5,11 +5,7 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**",
-      ".editorconfig",
-      ".firebaserc",
-      ".gitignore",
-      "firebase-debug.log",
-      "yarn.lock"
+      "firebase-debug.log"
     ]
   }
 }

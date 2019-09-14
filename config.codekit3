@@ -13,9 +13,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/.editorconfig",
-		"oF": 0
+		"oF": 1
 		},
 	"/.firebase/hosting.YnVpbGQ.cache": {
 		"cB": 0,
@@ -29,17 +29,17 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/.firebaserc",
-		"oF": 0
+		"oF": 1
 		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/.gitignore",
-		"oF": 0
+		"oF": 1
 		},
 	"/build": {
 		"ft": 65536,
@@ -613,6 +613,25 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/README.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -640,9 +659,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/yarn.lock",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
@@ -655,7 +674,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-slime",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 590146926.73921394
+	"lastBuiltDate": 590147587.73106503
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
