@@ -1,24 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css">
-  <link rel="stylesheet" href="./styles.css">
-  <title>Document</title>
-</head>
-<body>
-  <div id="app">
-    <div v-for="(monster, i) in monsters">
-      <monster :no="i + 1" :name="monster.name" path="./images/monsters"></monster>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>冰原魔物圖鑑速查</title>
+  </head>
+  <body>
+    <div id="app">
+      <div class="jumbotron">
+        <div class="container">
+          <h1>冰原魔物圖鑑速查</h1>
+          <p class="text-muted">
+            最後更新: 2019/09/14
+          </p>
+          <p class="mt-4">
+            <a class="github-button" href="https://github.com/pc035860/mhw-ib-dict" aria-label="Star pc035860/mhw-ib-dict on GitHub">Star</a>
+          </p>
+        </div>
+      </div>
+      <div class="container">
+        <hr>
+          <a v-for="(monster, i) in monsters" class="btn mr-2 mb-2" :href="'#monster-' + (i + 1)">{{ monster.name }}</a>
+        <hr>
+        <div class="py-2 py-md-0">
+          <div v-for="(monster, i) in monsters" class="my-5">
+            <monster
+              :no="i + 1"
+              :name="monster.name"
+              path="./images/monsters"
+            ></monster>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
-  <script src="./main-min.js"></script>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+    <script src="./main-min.js"></script>
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+  </body>
 </html>
