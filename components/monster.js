@@ -30,7 +30,7 @@ export default {
         this.path[this.path.length - 1] === "/" ? this.path : `${this.path}/`;
       return `${path}${this.no
         .toString()
-        .padStart(2, "0")}-${which.toUpperCase()}.jpeg`;
+        .padStart(2, "0")}-${which.toUpperCase()}.jpg`;
     },
     getImgId(which) {
       return `monster-img-${this.no}-${which}`;
