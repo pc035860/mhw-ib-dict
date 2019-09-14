@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "production": "mhw-ib-dict"
+  }
+}
