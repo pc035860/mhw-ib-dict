@@ -17,6 +17,14 @@
 		"oAP": "/build/.editorconfig",
 		"oF": 0
 		},
+	"/.firebaserc": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.firebaserc",
+		"oF": 0
+		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -52,6 +60,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/firebase.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/build/firebase-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"/images/monsters/01-A.jpeg": {
 		"ft": 16384,

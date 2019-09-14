@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      ".editorconfig",
+      ".firebaserc",
+      ".gitignore",
+      "firebase-debug.log",
+      "yarn.lock"
+    ]
+  }
+}

@@ -8,7 +8,5 @@
   },
   "author": "Chih-Hsuan Fan <pc035860@gmail.com> (http://pymaster.logdown.com)",
   "license": "MIT",
-  "dependencies": {
-    "fuzzy": "^0.1.3"
-  }
+  "dependencies": {}
 }
