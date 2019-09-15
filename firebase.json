@@ -6,6 +6,15 @@
       "**/.*",
       "**/node_modules/**",
       "firebase-debug.log"
+    ],
+    "headers": [
+      {
+        "source": "**/monsters/*.@(jpg|jpeg|gif|png)",
+        "headers": [{
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000"
+        }]
+      }
     ]
   }
 }
