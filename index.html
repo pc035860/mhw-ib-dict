@@ -32,9 +32,9 @@
           </p>
         </div>
       </div>
-      <div class="container">
+      <div class="container" v-cloak>
         <hr>
-          <a v-for="(monster, i) in monsters" class="btn mr-2 mb-2" :href="'#monster-' + (i + 1)">{{ monster.name }}</a>
+        <a v-for="(monster, i) in monsters" class="btn mr-2 mb-2" :href="'#monster-' + (i + 1)">{{ monster.name }}</a>
         <hr>
         <div class="py-2 py-md-0">
           <div v-for="(monster, i) in monsters" class="my-5">
@@ -42,6 +42,7 @@
               :no="i + 1"
               :name="monster.name"
               path="./images/monsters"
+              thumb-path="./images/monsters/thumbs"
             ></monster>
           </div>
         </div>

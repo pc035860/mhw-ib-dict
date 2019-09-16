@@ -1,9 +1,53 @@
-.c-monster {
-  figcaption {
-    display: none;
-  }
+[v-cloak] { display:none; }
 
-  img {
-    cursor: pointer;
+.c-monster {
+  &__figure {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+
+    figcaption {
+      display: none;
+    }
+
+    img {
+      cursor: pointer;
+    }
+  }
+}
+
+.c-monster-thumb-placeholder {
+  $background: #f6f7f8;
+  $grey-nuance-lighter: #eeeeee;
+  $grey-nuance-darker: fade-out(#dddddd, .2);
+
+  width: 100%;
+  padding-top: percentage(800/1230);
+  background-color: fade-out(#ccc, .7);
+  border-radius: 2px;
+
+  animation-duration: 1.2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeload;
+  animation-timing-function: linear;
+  background: $background;
+  background: $grey-nuance-lighter;
+  background: linear-gradient(60deg, $grey-nuance-lighter 8%, $grey-nuance-darker 18%, $grey-nuance-lighter 33%);
+  background-size: 4000px 500px;
+
+  opacity: .6;
+}
+
+@keyframes placeload {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1800px 0;
   }
 }
