@@ -41,12 +41,6 @@
 		"oAP": "/build/.gitignore",
 		"oF": 1
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/components/monster.js": {
 		"bF": 0,
 		"ft": 64,
@@ -54,17 +48,6 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/build/components/monster-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/components/MonsterFigure.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/components/MonsterFigure-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -591,7 +574,7 @@
 		"oAP": "/build/images/monsters/thumbs/01-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/01-B.jpg": {
@@ -602,7 +585,7 @@
 		"oAP": "/build/images/monsters/thumbs/01-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/02-A.jpg": {
@@ -613,7 +596,7 @@
 		"oAP": "/build/images/monsters/thumbs/02-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/02-B.jpg": {
@@ -624,7 +607,7 @@
 		"oAP": "/build/images/monsters/thumbs/02-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/03-A.jpg": {
@@ -635,7 +618,7 @@
 		"oAP": "/build/images/monsters/thumbs/03-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/03-B.jpg": {
@@ -646,7 +629,7 @@
 		"oAP": "/build/images/monsters/thumbs/03-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/04-A.jpg": {
@@ -657,7 +640,7 @@
 		"oAP": "/build/images/monsters/thumbs/04-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/04-B.jpg": {
@@ -668,7 +651,7 @@
 		"oAP": "/build/images/monsters/thumbs/04-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/05-A.jpg": {
@@ -679,7 +662,7 @@
 		"oAP": "/build/images/monsters/thumbs/05-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/05-B.jpg": {
@@ -690,7 +673,7 @@
 		"oAP": "/build/images/monsters/thumbs/05-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/06-A.jpg": {
@@ -701,7 +684,7 @@
 		"oAP": "/build/images/monsters/thumbs/06-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/06-B.jpg": {
@@ -712,7 +695,7 @@
 		"oAP": "/build/images/monsters/thumbs/06-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/07-A.jpg": {
@@ -723,7 +706,7 @@
 		"oAP": "/build/images/monsters/thumbs/07-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/07-B.jpg": {
@@ -734,7 +717,7 @@
 		"oAP": "/build/images/monsters/thumbs/07-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/08-A.jpg": {
@@ -745,7 +728,7 @@
 		"oAP": "/build/images/monsters/thumbs/08-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/08-B.jpg": {
@@ -756,7 +739,7 @@
 		"oAP": "/build/images/monsters/thumbs/08-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/09-A.jpg": {
@@ -767,7 +750,7 @@
 		"oAP": "/build/images/monsters/thumbs/09-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/09-B.jpg": {
@@ -778,7 +761,7 @@
 		"oAP": "/build/images/monsters/thumbs/09-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/10-A.jpg": {
@@ -789,7 +772,7 @@
 		"oAP": "/build/images/monsters/thumbs/10-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/10-B.jpg": {
@@ -800,7 +783,7 @@
 		"oAP": "/build/images/monsters/thumbs/10-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/11-A.jpg": {
@@ -811,7 +794,7 @@
 		"oAP": "/build/images/monsters/thumbs/11-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/11-B.jpg": {
@@ -822,7 +805,7 @@
 		"oAP": "/build/images/monsters/thumbs/11-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/12-A.jpg": {
@@ -833,7 +816,7 @@
 		"oAP": "/build/images/monsters/thumbs/12-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/12-B.jpg": {
@@ -844,7 +827,7 @@
 		"oAP": "/build/images/monsters/thumbs/12-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/13-A.jpg": {
@@ -855,7 +838,7 @@
 		"oAP": "/build/images/monsters/thumbs/13-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/13-B.jpg": {
@@ -866,7 +849,7 @@
 		"oAP": "/build/images/monsters/thumbs/13-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/14-A.jpg": {
@@ -877,7 +860,7 @@
 		"oAP": "/build/images/monsters/thumbs/14-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/14-B.jpg": {
@@ -888,7 +871,7 @@
 		"oAP": "/build/images/monsters/thumbs/14-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/15-A.jpg": {
@@ -899,7 +882,7 @@
 		"oAP": "/build/images/monsters/thumbs/15-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/15-B.jpg": {
@@ -910,7 +893,7 @@
 		"oAP": "/build/images/monsters/thumbs/15-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/16-A.jpg": {
@@ -921,7 +904,7 @@
 		"oAP": "/build/images/monsters/thumbs/16-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/16-B.jpg": {
@@ -932,7 +915,7 @@
 		"oAP": "/build/images/monsters/thumbs/16-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/17-A.jpg": {
@@ -943,7 +926,7 @@
 		"oAP": "/build/images/monsters/thumbs/17-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/17-B.jpg": {
@@ -954,7 +937,7 @@
 		"oAP": "/build/images/monsters/thumbs/17-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/18-A.jpg": {
@@ -965,7 +948,7 @@
 		"oAP": "/build/images/monsters/thumbs/18-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/18-B.jpg": {
@@ -976,7 +959,7 @@
 		"oAP": "/build/images/monsters/thumbs/18-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/19-A.jpg": {
@@ -987,7 +970,7 @@
 		"oAP": "/build/images/monsters/thumbs/19-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/19-B.jpg": {
@@ -998,7 +981,7 @@
 		"oAP": "/build/images/monsters/thumbs/19-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/20-A.jpg": {
@@ -1009,7 +992,7 @@
 		"oAP": "/build/images/monsters/thumbs/20-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/20-B.jpg": {
@@ -1020,7 +1003,7 @@
 		"oAP": "/build/images/monsters/thumbs/20-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/21-A.jpg": {
@@ -1031,7 +1014,7 @@
 		"oAP": "/build/images/monsters/thumbs/21-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/21-B.jpg": {
@@ -1042,7 +1025,7 @@
 		"oAP": "/build/images/monsters/thumbs/21-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/22-A.jpg": {
@@ -1053,7 +1036,7 @@
 		"oAP": "/build/images/monsters/thumbs/22-A.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/monsters/thumbs/22-B.jpg": {
@@ -1064,7 +1047,7 @@
 		"oAP": "/build/images/monsters/thumbs/22-B.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/index.html": {
@@ -1180,7 +1163,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-slime",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 590147587.73106503
+	"lastBuiltDate": 590303006.66184103
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
